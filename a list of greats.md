@@ -1,8 +1,8 @@
 # MOOC-SUCK
 
-List of grand hobbyists, polymaths and autodidacts of the past and present internet. MOOCs are shallow; these people are deep. A course of [Greats](https://en.wikipedia.org/wiki/Literae_Humaniores) for the modern, [third-culture](https://en.wikipedia.org/wiki/The_Third_Culture) intellectual. Independent of institutions.
+List of the grand hobbyists, polymaths and autodidacts of the past and present internet. MOOCs are shallow; these people are deep. A course of [Greats](https://en.wikipedia.org/wiki/Literae_Humaniores) for modern, [third-culture](https://en.wikipedia.org/wiki/The_Third_Culture) intellectuals. 
 
-**Criteria**: each of the following displays a mixture of self-directed technical research and personal polemic. Each betrays an entire worldview; no single-topic [blogs](https://terrytao.wordpress.com/) [however](http://robertpaulwolff.blogspot.co.uk/) [wonderful](). Each would be doing exactly this even if not employed as academic or in industry.
+**Criteria**: each of the following displays a mixture of self-directed technical research and personal polemic. Each betrays an entire worldview; no single-topic [blogs](https://terrytao.wordpress.com/) [however](http://robertpaulwolff.blogspot.co.uk/) [wonderful](https://www.schneier.com/). Each of the following writers would be doing exactly what they're even if not employed as an academic, or in industry.
 
 
 ## Computing
@@ -18,13 +18,10 @@ List of grand hobbyists, polymaths and autodidacts of the past and present inter
 * [Gwern](http://www.gwern.net/#cs).
 
 
-
-* [Cosma Shalizi](http://bactra.org/)
-* 
-
 ## Big repositories
 
 * [Fantastic selection of advanced Bayesian and Machine learning texts](http://yaroslavvb.com/papers/)
+* [Half total nonsense, half rigorous mathematics / philosophy pdfs.](https://arcaneknowledgeofthedeep.wordpress.com/)
 
 
 ## Everything
@@ -32,8 +29,11 @@ List of grand hobbyists, polymaths and autodidacts of the past and present inter
 * [David Pearce](http://david-pearce.com/)
 * [Scaruffi.com]. Astonishing coverage of neuroscience, pop, rock and avant jazz, American politics, hiking trails across the world,  human history (...)
 * [Anders Sandberg](http://aleph.se/andart2/)
+* [Kaj Sotala](http://kajsotala.fi/)
+* [A giant list of resources for modern rationalism](http://lesswrong.com/lw/2un/references_resources_for_lesswrong/)
 * [Gwern](http://www.gwern.net/)
-
+* [Cosma Shalizi](http://bactra.org/)
+* [Nick Bostrom is awesome](http://www.nickbostrom.com/)
 
 ## Arts
 
