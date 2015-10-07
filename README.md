@@ -4,7 +4,7 @@ List of the grand hobbyists, polymaths and autodidacts of the past and present i
 
 Call their sites e-sheds.
 
-**Criteria**: each of the following displays a mixture of self-directed technical research and personal polemic. Each betrays an entire worldview; no single-topic [blogs](https://terrytao.wordpress.com/) [however](http://robertpaulwolff.blogspot.co.uk/) [wonderful](https://www.schneier.com/). Each of the following writers would be doing exactly what they're even if not employed as an academic, or in industry.
+**Criteria**: each of the following displays a mixture of self-directed technical research and personal polemic. Each betrays an entire worldview; no single-topic [blogs](https://terrytao.wordpress.com/) [however](http://robertpaulwolff.blogspot.co.uk/) [wonderful](https://www.schneier.com/). Each of the following writers would be doing exactly what they're doing even if not employed as an academic, or in industry.
 
 
 ## On Everything
