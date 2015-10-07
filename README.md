@@ -43,8 +43,9 @@ Call their sites e-sheds.
 * [John J Emerson, hyperliterate troll](https://haquelebac.wordpress.com/john-emersons-media-empire/)
 * [Ralph Dumain, proud ranter](http://autodidactproject.org/sitemap.html)
 * [Extensive record of one man's quantified self](http://peterhurford.tumblr.com/post/115870806686/list-of-my-personal-reviews)
-* [Gwern](http://www.gwern.net/)
 * [Zach Weiner, sadly inactive](http://www.theweinerworks.com/)
+* [Gwern](http://www.gwern.net/)
+
 
 ## Public readers
 
