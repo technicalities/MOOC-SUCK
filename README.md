@@ -7,15 +7,15 @@ Call their sites e-sheds.
 **Criteria**: each of the following displays a mixture of self-directed technical research and personal polemic. Each betrays an entire worldview; no single-topic [blogs](https://terrytao.wordpress.com/) [however](http://robertpaulwolff.blogspot.co.uk/) [wonderful](https://www.schneier.com/). Each of the following writers would be doing exactly what they're even if not employed as an academic, or in industry.
 
 
-## Everything
+## On Everything
 
 * [David Pearce](http://david-pearce.com/)
 * [Scaruffi](Scaruffi.com). Overwhelming array covering neuroscience, pop, rock and avant jazz, American politics, hiking trails across the world,  human history (...)
 * [Anders Sandberg](http://aleph.se/andart2/)
 * [Kaj Sotala](http://kajsotala.fi/)
-* [Gwern](http://www.gwern.net/)
 * [Cosma Shalizi](http://bactra.org/)
 * [Nick Bostrom is awesome](http://www.nickbostrom.com/)
+* [Gwern](http://www.gwern.net/)
 
 
 ## Computing
@@ -43,11 +43,12 @@ Call their sites e-sheds.
 * [John J Emerson, hyperliterate troll](https://haquelebac.wordpress.com/john-emersons-media-empire/)
 * [Ralph Dumain, proud ranter](http://autodidactproject.org/sitemap.html)
 * [Extensive record of one man's quantified self](http://peterhurford.tumblr.com/post/115870806686/list-of-my-personal-reviews)
-
+* [Gwern](http://www.gwern.net/)
+* [Zach Weiner, sadly inactive](http://www.theweinerworks.com/)
 
 ## Public readers
 
-* 
 * [Cosma Shalizi](http://bactra.org/weblog/cat_algae.html)
 * [Ozy Frantz](https://thingofthings.wordpress.com/category/book-post/)
 * [Aaron Swartz](http://www.aaronsw.com/weblog/books2011)
+* [Gwern](http://www.gwern.net/Book%20reviews)
