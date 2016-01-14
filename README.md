@@ -1,8 +1,6 @@
 # MOOC-SUCK
 
-List of the grand hobbyists, polymaths and autodidacts of the past and present internet. MOOCs are shallow; these people are deep. A course of [Greats](https://en.wikipedia.org/wiki/Literae_Humaniores) for modern, [third-culture](https://en.wikipedia.org/wiki/The_Third_Culture) intellectuals. 
-
-Call their sites e-sheds.
+List of the grand hobbyists, polymaths and autodidacts of the past and present internet. MOOCs are shallow; these people are deep. A course of [Greats](https://en.wikipedia.org/wiki/Literae_Humaniores) for modern, [third-culture](https://en.wikipedia.org/wiki/The_Third_Culture) intellectuals.  Call their sites e-sheds.
 
 **Criteria**: each of the following displays a mixture of self-directed technical research and personal polemic. Each betrays an entire worldview; no single-topic [blogs](https://terrytao.wordpress.com/) [however](http://robertpaulwolff.blogspot.co.uk/) [wonderful](https://www.schneier.com/). Each of the following writers would be doing exactly what they're doing even if not employed as an academic, or in industry.
 
@@ -45,6 +43,7 @@ Call their sites e-sheds.
 * [Extensive record of one man's quantified self](http://peterhurford.tumblr.com/post/115870806686/list-of-my-personal-reviews)
 * [Zach Weiner, sadly inactive](http://www.theweinerworks.com/)
 * [Gwern](http://www.gwern.net/)
+* [This is a great, inspiring read.](https://www.wikiwand.com/en/List_of_autodidacts)
 
 
 ## Public readers
